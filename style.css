@@ -1,0 +1,20 @@
+.heading
+{
+width: 80%;
+font-size: 25px;
+}
+
+body
+{   
+background-color:#f7bbfc;
+}
+
+.name_of_objects
+{
+    color: chocolate;
+}
+
+#camera , #result
+{
+    border: 2px dashed black;
+}
